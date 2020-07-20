@@ -1,4 +1,4 @@
-/* Sequential version of N body simulation */
+/* Parallel version of N body simulation */
 /* Author: Raghav Pandya */
 
 #include "NBody.h"
